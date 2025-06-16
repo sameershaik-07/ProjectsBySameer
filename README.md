@@ -13,21 +13,6 @@ Each project folder contains two subfolders:
 
 ---
 
-## 🚀 Projects Overview
-
-### 1. 🛒 Online Shopping 
-
-- Designed a **Registration Form** for user login.
-- Styling is handled in `RegistrationForm.css`.
-- Upon submitting the form, the user is redirected to the **Shopping Page**.
-- The shopping page showcases items categorized into sections like:
-  - 🔥 Offers
-  - 📱 Mobiles
-  - 👗 Clothes  
-- Items are displayed pictorially with user-friendly UI.
-- See the **Output** folder for screenshots of the pages.
-
-
 ## 🌟 Features & Highlights
 
 - Clear folder structure separating code and outputs for easy navigation.
